@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+    }
+img {
+    margin: 3rem;
+    border-radius: 3rem;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: darkcyan;
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
